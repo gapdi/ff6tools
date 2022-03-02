@@ -2,7 +2,7 @@
 
 FF6Tools is a browser-based app for editing Final Fantasy ROM files for the
 NES, SNES, and GBA. The latest version is always available here:
-https://everything8215.github.io/ff6tools/
+https://gapdi.github.io/ff6tools/
 
 Please post questions and comments in the FF6Tools thread at ff6hacking.com:
 https://www.ff6hacking.com/forums/thread-3321.html. You can also find me on
